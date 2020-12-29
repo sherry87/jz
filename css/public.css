@@ -1,0 +1,8 @@
+/** 公共样式 **/
+.clearfix:after{visibility:hidden;display:block;font-size:0;content: " ";clear:both;height:0;}
+.clearfix{*zoom:1;}
+
+.el-button.el-button--medium{
+    padding: 15px 3s0px;
+    font-size: 18px;
+}
